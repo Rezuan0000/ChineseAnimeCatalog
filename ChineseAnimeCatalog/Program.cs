@@ -5,6 +5,7 @@ using Microsoft.Extensions.Configuration;
 using System.IO;
 using ChineseAnimeCatalog.Services;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Добавляем конфигурацию
